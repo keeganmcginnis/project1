@@ -1,5 +1,4 @@
 html {
-
 	background-image: url(img/texture-1.jpeg);
 }
 
@@ -8,29 +7,7 @@ p {
 	font-size: 1.7em;
 }
 
-.top {
-
-	width: 270px;
-	height: 180px;
-}
-
-.support {
-	width: 270px;
-	height: 180px;
-}
-
-.mid {
-
-	width: 270px;
-	height: 180px;
-}
-
-.jungle {
-	width: 270;
-	height: 180px;
-}
-
-.adc {
+div img {
 	width: 270px;
 	height: 180px;
 }
